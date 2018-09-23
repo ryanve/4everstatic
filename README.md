@@ -24,3 +24,11 @@ static ftw
 static 4ever
 4ever static
 ```
+
+### `4ever~`
+
+```md
+* live
+* lofi
+* logo
+```
